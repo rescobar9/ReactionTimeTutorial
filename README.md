@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [ReactionTimeTutorial](/ReactionTimeTutorial/ReactionTimeTutorial)
+* [ReactionTimeTutorial](/ReactionTimeTutorial/ReactionTime)
 
 ## Edit this project ![Build status badge](https://github.com/rescobar9/reactiontimetutorial/workflows/MakeCode/badge.svg)
 
