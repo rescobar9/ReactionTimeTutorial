@@ -1,4 +1,4 @@
-# ReactionTime
+# ReactionTimeTutorial
 
 ## Step 1
 

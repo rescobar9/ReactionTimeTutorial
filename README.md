@@ -1,14 +1,9 @@
 
 > Open this page at [https://rescobar9.github.io/reactiontimetutorial/](https://rescobar9.github.io/reactiontimetutorial/)
 
-## Use as Extension
+## Tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rescobar9/reactiontimetutorial** and import
+* [ReactionTime](/ReactionTime)
 
 ## Edit this project ![Build status badge](https://github.com/rescobar9/reactiontimetutorial/workflows/MakeCode/badge.svg)
 
